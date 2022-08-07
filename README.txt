@@ -1,0 +1,1 @@
+Open config.inc and edit only until you see // No need to edit below here
